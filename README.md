@@ -71,6 +71,7 @@ Returns data using Store Procedure and Enitity Framework.
             var id = new SqlParameter("@UserId", SqlDbType.Int) { Value = 2 };
             return _unitOfWork.SpRepository<TestTable>("testSP @UserId", id).SingleOrDefault();
         }`
+        
 5. Make Models in TwinCityCoders.Models project and add dbset in DatabaseContext.cs file.
 ` public DbSet<TestTable> TestTables { get; set; }`
 
