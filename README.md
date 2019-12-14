@@ -1,4 +1,4 @@
-# .Net Core 3.1 Enterprise Application Architecture
+# .Net Core 3.1 Web API Enterprise Application Architecture
 This is a complete architecture to support enterprise application.
 Following things are implemented in this architecture.
 - NLog
