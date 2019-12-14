@@ -55,15 +55,15 @@ Returns data using Store Procedure and Enitity Framework.
         }`
 
 1. User unit of work to use Linq or Store Procedure.
+
 ###### Linq:
-`public TestTable DbLinq()
+` public TestTable DbLinq()
         {
             var userRepository = _unitOfWork.GetRepository<TestTable>();
             int a = 2;
             var user = userRepository.GetAll().Where(c => c.ID == a).SingleOrDefault();
             if (user == null)
                 return null;
-
             return user;
         }`
 ###### Store Procedure
@@ -74,7 +74,6 @@ Returns data using Store Procedure and Enitity Framework.
         }`
 
 1. Make Models in TwinCityCoders.Models project and add dbset in DatabaseContext.cs file.
-`public DbSet<TestTable> TestTables { get; set; }`
+` public DbSet<TestTable> TestTables { get; set; }`
 
-
-
+Thats it !!
