@@ -69,7 +69,7 @@ namespace TwinCityCoders.API
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "PawsEnRoute", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "TestProject", Version = "v1" });
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     In = ParameterLocation.Header,
