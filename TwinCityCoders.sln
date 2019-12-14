@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwinCityCoders.API", "TwinCityCoders.API\TwinCityCoders.API.csproj", "{C94BE33E-0B01-4F3D-9E82-88368C4CEFA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinCityCoders.DBCore", "TwinCityCoders.DBCore\TwinCityCoders.DBCore.csproj", "{67C1BE81-2BEC-4CB0-B4D2-58764CD6C8A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinCityCoders.Sockets", "TwinCityCoders.Sockets\TwinCityCoders.Sockets.csproj", "{E8B4AA16-523C-4FC9-8837-07C759CB135B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinCityCoders.Utilities", "TwinCityCoders.Utilities\TwinCityCoders.Utilities.csproj", "{472A20C2-08D6-4C86-8839-68608C24B036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinCityCoders.Models", "TwinCityCoders.Models\TwinCityCoders.Models.csproj", "{ED12D978-56C5-4C57-847A-ADD68467FF67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwinCityCoders.Services", "TwinCityCoders.Services\TwinCityCoders.Services.csproj", "{76BDAE9C-FD4F-4166-9BA3-4E81561972C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94BE33E-0B01-4F3D-9E82-88368C4CEFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94BE33E-0B01-4F3D-9E82-88368C4CEFA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94BE33E-0B01-4F3D-9E82-88368C4CEFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94BE33E-0B01-4F3D-9E82-88368C4CEFA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C1BE81-2BEC-4CB0-B4D2-58764CD6C8A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C1BE81-2BEC-4CB0-B4D2-58764CD6C8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C1BE81-2BEC-4CB0-B4D2-58764CD6C8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C1BE81-2BEC-4CB0-B4D2-58764CD6C8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8B4AA16-523C-4FC9-8837-07C759CB135B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8B4AA16-523C-4FC9-8837-07C759CB135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8B4AA16-523C-4FC9-8837-07C759CB135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8B4AA16-523C-4FC9-8837-07C759CB135B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472A20C2-08D6-4C86-8839-68608C24B036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472A20C2-08D6-4C86-8839-68608C24B036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472A20C2-08D6-4C86-8839-68608C24B036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472A20C2-08D6-4C86-8839-68608C24B036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED12D978-56C5-4C57-847A-ADD68467FF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED12D978-56C5-4C57-847A-ADD68467FF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED12D978-56C5-4C57-847A-ADD68467FF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED12D978-56C5-4C57-847A-ADD68467FF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76BDAE9C-FD4F-4166-9BA3-4E81561972C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76BDAE9C-FD4F-4166-9BA3-4E81561972C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76BDAE9C-FD4F-4166-9BA3-4E81561972C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76BDAE9C-FD4F-4166-9BA3-4E81561972C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31C822D-7E44-4537-9E0A-CB8BCE028024}
+	EndGlobalSection
+EndGlobal

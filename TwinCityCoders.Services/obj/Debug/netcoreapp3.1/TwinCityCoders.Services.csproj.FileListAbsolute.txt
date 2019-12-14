@@ -1,0 +1,15 @@
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.csprojAssemblyReference.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.AssemblyInfoInputs.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.AssemblyInfo.cs
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Services.deps.json
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Services.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Services.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.DBCore.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Utilities.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.DBCore.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\bin\Debug\netcoreapp3.1\TwinCityCoders.Utilities.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.csproj.CopyComplete
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Services\obj\Debug\netcoreapp3.1\TwinCityCoders.Services.pdb

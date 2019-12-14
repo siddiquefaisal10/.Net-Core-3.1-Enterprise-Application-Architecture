@@ -1,0 +1,11 @@
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.csprojAssemblyReference.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.AssemblyInfoInputs.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.AssemblyInfo.cs
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\bin\Debug\netcoreapp3.1\TwinCityCoders.DBCore.deps.json
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\bin\Debug\netcoreapp3.1\TwinCityCoders.DBCore.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\bin\Debug\netcoreapp3.1\TwinCityCoders.DBCore.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.csproj.CopyComplete
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.DBCore\obj\Debug\netcoreapp3.1\TwinCityCoders.DBCore.pdb

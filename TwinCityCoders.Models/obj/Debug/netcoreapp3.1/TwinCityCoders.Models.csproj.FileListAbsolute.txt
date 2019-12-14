@@ -1,0 +1,8 @@
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.deps.json
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\obj\Debug\netcoreapp3.1\TwinCityCoders.Models.AssemblyInfoInputs.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\obj\Debug\netcoreapp3.1\TwinCityCoders.Models.AssemblyInfo.cs
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\obj\Debug\netcoreapp3.1\TwinCityCoders.Models.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\obj\Debug\netcoreapp3.1\TwinCityCoders.Models.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Models\obj\Debug\netcoreapp3.1\TwinCityCoders.Models.csprojAssemblyReference.cache

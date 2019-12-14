@@ -1,0 +1,11 @@
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.csprojAssemblyReference.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.AssemblyInfoInputs.cache
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.AssemblyInfo.cs
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\bin\Debug\netcoreapp3.1\TwinCityCoders.Sockets.deps.json
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\bin\Debug\netcoreapp3.1\TwinCityCoders.Sockets.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\bin\Debug\netcoreapp3.1\TwinCityCoders.Sockets.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\bin\Debug\netcoreapp3.1\TwinCityCoders.Models.pdb
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.csproj.CopyComplete
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.dll
+E:\Youtube\Code\Backend-Architecture-3.0 .net\TwinCityCoders\TwinCityCoders.Sockets\obj\Debug\netcoreapp3.1\TwinCityCoders.Sockets.pdb
