@@ -40,11 +40,11 @@ Returns data using Store Procedure and Enitity Framework.
 
 ### # **HOW TO WORK IN PROJECT:**
 1. Add Controller
-1. Add Service and Interface in Services project.
+2. Add Service and Interface in Services project.
 > Don't  forget to register service in servicemodule.cs
 `Example: services.AddTransient<ITestService, TestService>();`
 
-1. Add Unit of work into service file using dependency injection.
+3. Add Unit of work into service file using dependency injection.
 ` private readonly IUnitOfWork _unitOfWork;
         private readonly AppSettings _appSettings;
 
@@ -54,8 +54,7 @@ Returns data using Store Procedure and Enitity Framework.
             _appSettings = appSettings.Value;
         }`
 
-1. User unit of work to use Linq or Store Procedure.
-
+4. User unit of work to use Linq or Store Procedure.
 ###### Linq:
 ` public TestTable DbLinq()
         {
@@ -72,8 +71,10 @@ Returns data using Store Procedure and Enitity Framework.
             var id = new SqlParameter("@UserId", SqlDbType.Int) { Value = 2 };
             return _unitOfWork.SpRepository<TestTable>("testSP @UserId", id).SingleOrDefault();
         }`
-
-1. Make Models in TwinCityCoders.Models project and add dbset in DatabaseContext.cs file.
+5. Make Models in TwinCityCoders.Models project and add dbset in DatabaseContext.cs file.
 ` public DbSet<TestTable> TestTables { get; set; }`
 
 Thats it !!
+
+
+
