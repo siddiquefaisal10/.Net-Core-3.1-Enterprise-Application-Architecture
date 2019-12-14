@@ -133,7 +133,7 @@ namespace TwinCityCoders.API
                 app.UseSwagger();
                 app.UseSwaggerUI(c =>
                 {
-                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "PawsEnRoute");
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "TestProject");
                 });
             }
             else
