@@ -5,6 +5,7 @@ Following things are implemented in this architecture.
 - Store Procedure
 - Linq Query
 - JWT
+- SignalR
 - Swagger
 - Generic Repository
 - Generic Store Procedure Call
@@ -32,6 +33,48 @@ Returns data using linq query and entity Framework.
 
 - DataFromSP:
 Returns data using Store Procedure and Enitity Framework.
+
+
+
+------------
+
+### # **HOW TO WORK IN PROJECT:**
+1. Add Controller
+1. Add Service and Interface in Services project.
+> Don't  forget to register service in servicemodule.cs
+`Example: services.AddTransient<ITestService, TestService>();`
+
+1. Add Unit of work into service file using dependency injection.
+` private readonly IUnitOfWork _unitOfWork;
+        private readonly AppSettings _appSettings;
+
+        public TestService(IUnitOfWork unitOfWork, IOptions<AppSettings> appSettings)
+        {
+            _unitOfWork = unitOfWork;
+            _appSettings = appSettings.Value;
+        }`
+
+1. User unit of work to use Linq or Store Procedure.
+###### Linq:
+`public TestTable DbLinq()
+        {
+            var userRepository = _unitOfWork.GetRepository<TestTable>();
+            int a = 2;
+            var user = userRepository.GetAll().Where(c => c.ID == a).SingleOrDefault();
+            if (user == null)
+                return null;
+
+            return user;
+        }`
+###### Store Procedure
+` public TestTable SpQuery()
+        {
+            var id = new SqlParameter("@UserId", SqlDbType.Int) { Value = 2 };
+            return _unitOfWork.SpRepository<TestTable>("testSP @UserId", id).SingleOrDefault();
+        }`
+
+1. Make Models in TwinCityCoders.Models project and add dbset in DatabaseContext.cs file.
+`public DbSet<TestTable> TestTables { get; set; }`
 
 
 
